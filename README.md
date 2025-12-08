@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Alex Yekymov</h1>
+<h1 align="center">Hi 👋, my name's Alex</h1>
 
 
-<h3 align="center">A Java Backend Developer from Ukraine 🇺🇦</h3>
+<h3 align="center">I'm a Java Backend Developer from Ukraine 🇺🇦</h3>
 
 <p align="left"> 
 <h3 align="left">Main Stack:</h3>
